@@ -9,12 +9,12 @@ Copyright (C) [Massimo Barbieri](http://www.massimobarbieri.it)
 
 ## Environment
 
-* .Net Framework / C#
+* .NET Framework / C#
 * Entity Framework
-* WebApi
+* Web API
 * Ninject
 * Moq
-* Nunit
+* NUnit
 
 ## License
 
